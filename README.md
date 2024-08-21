@@ -31,4 +31,15 @@ yarn
 
 ## License
 
-All Rights Reserved.
+This project is provided under the following End User License Agreement (EULA).
+
+View the full license in the file [EULA.md](./EULA.md).
+
+## Third-Party Licenses
+
+### xray-core
+
+This software includes components from the xray-core project, which are licensed under the Mozilla Public License v2.0.
+You can obtain a copy of the MPL at https://www.mozilla.org/MPL/2.0/.
+
+The source code for xray-core can be found at https://github.com/XTLS/xray-core.
